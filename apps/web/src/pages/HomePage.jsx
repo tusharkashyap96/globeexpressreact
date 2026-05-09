@@ -24,7 +24,7 @@ function HomePage() {
       <section className="relative min-h-[100dvh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src="/hero/background.jpg"
+            src="/images/hero/background.jpg"
             alt="Logistics trucks on highway"
             className="w-full h-full object-cover"
           />
